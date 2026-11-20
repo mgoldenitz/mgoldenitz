@@ -7,7 +7,7 @@ My project areas include drug approvals, clinical trials, safety reporting, popu
 ## Start here
 
 - [Mental Health Clinical Trials Pipeline](https://github.com/mgoldenitz/mental-health-trials-pipeline): 18,357 ClinicalTrials.gov trials, SQL, Power BI and a [live app](https://mh-trials-tracker.streamlit.app), refreshed weekly on AWS. Anxiety trials grew 5.7 times from 2010-12 to 2023-25; Canada ranks second, after the US, with 1,020 trials that have a Canadian site.
-- [Safety Signal Explorer](https://github.com/mgoldenitz/safety-signal-explorer): Adverse event reports for esketamine (Spravato) and ketamine in 10.8 million FAERS cases and 567,733 Canada Vigilance reports. All 8 known reactions used as checks were flagged, and none of the 4 negative controls were.
+- [Safety Signal Explorer](https://github.com/mgoldenitz/safety-signal-explorer): Adverse event reports for esketamine (Spravato) and ketamine in 10.8 million FAERS cases and 567,733 Canada Vigilance reports. All 8 known reactions used as checks were flagged, while the 4 negative controls were not. 
 - [Ontario ER Wait-Time Scorecard](https://github.com/mgoldenitz/ontario-er-wait-time-scorecard): Power BI scorecard for Trillium Health Partners' three sites against 150+ Ontario EDs. Credit Valley's admitted patients spend 8.3 hours longer in the ED than Mississauga's after adjusting for volume and patient mix.
 
 ## Also
