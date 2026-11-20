@@ -2,7 +2,7 @@
 
 Aspiring Health and Drug-Safety Data Analyst. I'm in the Applied Data Analytics and Visualization program at Sheridan College (Mississauga) and have an HBSc in Psychology and Philosophy from the University of Toronto Mississauga, with neuroscience coursework and an FSL brain-imaging research project.
 
-My project areas include drug approvals, clinical trials, safety reporting, population harms and hospital emergency departments. Tools used: SQL, Python, R, Power BI and AWS on public Canadian and US health data.
+My project areas include drug approvals, clinical trials, safety reporting, population harms and hospital emergency departments. Tools used: SQL, Python, R, Power BI, Tableau and AWS on public Canadian and US health data.
 
 ## Start here
 
